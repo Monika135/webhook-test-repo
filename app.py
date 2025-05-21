@@ -1,8 +1,3 @@
-# from flask import Flask, request, jsonify, abort
-# # import json
-# # import os
-# # from datetime import datetime
-# # from validator import validate_payload
 
 # app = Flask(__name__)
 
