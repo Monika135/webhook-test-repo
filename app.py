@@ -1,19 +1,4 @@
 
-# app = Flask(__name__)
-
-# # LOG_FILE = "logs/payment_logs.json"
-# # os.makedirs("logs", exist_ok=True)
-
-
-# # def log_event(data):
-# #     with open(LOG_FILE, "a") as f:
-# #         f.write(json.dumps(data) + "\n")
-
-
-# # @app.route("/", methods=["GET"])
-# # def index():
-# #     return "Fake Payment Processor Webhook Listener Running!"
-
 
 # # @app.route("/webhook", methods=["POST"])
 # # def payment_webhook():
